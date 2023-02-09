@@ -1,6 +1,5 @@
 Software Engineer
-I am a full-stack software engineer with experience in Ruby, JavaScript, React, Tailwind CSS, and Ruby on Rails.
-
+I am a full-stack software engineer with experience in Ruby, JavaScript, React, Angular, Tailwind CSS, and Ruby on Rails.
 Skills
 Ruby: I have experience building web applications using Ruby, specifically with the Ruby on Rails framework. I have a strong understanding of the Ruby language and its core principles, including object-oriented programming, metaprogramming, and functional programming.
 
@@ -11,15 +10,9 @@ React: I have experience building web applications using the React JavaScript li
 Tailwind CSS: I have experience using the Tailwind CSS utility framework to build responsive and maintainable CSS for web applications. I am familiar with the framework's conventions and best practices for organizing and structuring CSS.
 
 Ruby on Rails: I have experience building web applications using the Ruby on Rails framework. I have a strong understanding of Rails' MVC architecture, as well as its conventions for routing, controllers, and models. I also have experience working with other libraries commonly used with Rails, such as ActiveRecord and ActionCable.
-
-Projects
-Project Name: A web application built using Ruby on Rails and React that allows users to [insert project functionality].
-Project Name: A web application built using JavaScript, Node.js, and MongoDB that allows users to [insert project functionality].
 Education
-I have a Bachelor's degree in Computer Science from [University Name].
-
-Experience
-I have [X] years of experience as a software engineer. I have worked at [Company Name], where I built [insert project or job responsibilities]. I am currently working at [Company Name], where I am responsible for [insert job responsibilities].
+I have a Bachelor's degree in Computer Science from South Eastern Kenya University.
+I have a certification in Software Engineering from Moringa School.
 
 Please feel free to contact me if you have any questions or if you are interested in working together.
 
