@@ -1,6 +1,6 @@
 <h1 style="font-size: 100px;">Software Engineer Nicholas Njeru </h1>
 I am a full-stack software engineer with experience in Ruby, JavaScript, React, Angular, Tailwind CSS, and Ruby on Rails.
-Skills
+<h1 style="font-size: 100px;">Skills </h1>
 <div><img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" height="70px" width="70px"/></div>
 Ruby: I have experience building web applications using Ruby, specifically with the Ruby on Rails framework. I have a strong understanding of the Ruby language and its core principles, including object-oriented programming, metaprogramming, and functional programming.
 <div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="70px" width="70px"/></div>
