@@ -33,8 +33,9 @@ I have a certification in Software Engineering from Moringa School.</p>
 
 <p>Thank you for visiting my GitHub profile!</p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nicco99&label=Profile%20Views&color=0&icon=0" />
+<a href="https://hits.sh/github.com/nicco99/nicco99/">
+  <img src="https://hits.sh/github.com/nicco99/nicco99.svg?style=for-the-badge" alt="Profile Views" />
 </a>
+
 
 
