@@ -24,31 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-Hi there! 👋 I love connecting with people—friends, clients, and fellow developers. Here's a little interactive corner to make your visit more fun and personal! 💫
-</p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="200" alt="Hello waving" />
-</p>
-
-<p align="center">
-💬 Let's chat, share ideas, or collaborate on exciting projects!  
-📬 Reach me anytime via [Email](mailto:nicholasnjeru917@gmail.com) or [WhatsApp](https://wa.me/+254726555838)
-</p>
-
-<p align="center">
-🎨 Here's a GIF showing creativity at work:
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="300" alt="Coding animation" />
-</p>
-
-<p align="center">
-💡 Whether it’s designing, coding, or building something new—I love bringing ideas to life.  
-Feel free to connect, share thoughts, or just say hi! 🌟
-</p>
 <p>
 I have a Bachelor's degree in Computer Science from South Eastern Kenya University.
 I have a certification in Software Engineering from Moringa School.</p>
